@@ -3,6 +3,6 @@ package main
 import "log"
 
 func main() {
-	log.SetPrefix("Details service: ")
+	log.SetPrefix("Registry service: ")
 	log.Println("Starting...")
 }
